@@ -13,3 +13,7 @@ Favorites Aliases
 `git config --global alias.tree 'log --all --decorate --oneline --graph'`
 
 `git config --global alias.newbranch 'checkout -b'`
+
+`git config --global alias.alias.st 'status'`
+
+`git config --global alias.aliases 'config --get-regexp alias'`
