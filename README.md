@@ -7,3 +7,9 @@ To add a new Alias just type
 To remove a Alias use this
 
 `git config --global --unset alias.<alias name>`
+
+Favorites Aliases
+
+`git config --global alias.tree 'log --all --decorate --oneline --graph'`
+
+`git config --global alias.newbranch 'checkout -b'`
