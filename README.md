@@ -14,6 +14,10 @@ Favorites Aliases
 
 `git config --global alias.newbranch 'checkout -b'`
 
-`git config --global alias.alias.st 'status'`
+`git config --global alias.st 'status'`
 
 `git config --global alias.aliases 'config --get-regexp alias'`
+
+`git config --global alias.cm 'commit -m'`
+
+`git config --global alias.olog 'log --oneline'`
