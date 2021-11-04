@@ -27,6 +27,8 @@ git config --global alias.olog 'log --oneline'
 
 git config --global alias.set-alias 'config --global'
 
+git config --global alias.unset-alias 'config --global --unset'
+
 git config --global alias.remove 'restore --staged'
 
 ```
