@@ -1,14 +1,16 @@
-# Git Aliases
+# :rocket: Git Aliases 
 
-To add a new Alias just type
+## :hammer_and_wrench: To add a new Alias just type
 
 `git config --global alias.<alias name> '<git command>'`
 
-To remove a Alias use this
+## :hammer_and_wrench: To remove a Alias use this
 
 `git config --global --unset alias.<alias name>`
 
-Favorites Aliases
+## :star: Favorites Aliases
+
+Feel free to copy all of my favorite aliases and use it!
 
 ```
 git config --global alias.tree 'log --all --decorate --oneline --graph'
