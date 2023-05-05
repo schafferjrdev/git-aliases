@@ -43,4 +43,6 @@ git config --global alias.hard-one reset --hard HEAD~1
 
 git config --global alias.delete-ignored rm -rf --cached .
 
+git config --global alias.cache-login config --global credential.helper cache
+
 ```
